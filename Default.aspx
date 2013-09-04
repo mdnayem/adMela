@@ -1,0 +1,417 @@
+<!---#include file = "TopMenu.asp"--->
+		
+		</td>
+        </tr>
+    
+      <tr>
+        <td colspan="5" valign="top"><table width="800" height="704px" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="179" height="708px" valign="top"><table width="190" height="704px" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td valign="top"><table width="190"  height="704px" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td valign="top"><table width="190" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td colspan="3" height="285px" valign="top"><table width="190" border="0" cellspacing="0" cellpadding="0">
+                              <tr>
+                                <td colspan="3" valign="top"><table width="190" border="0" cellspacing="0" cellpadding="0">
+                                    <tr>
+                                      <td><img src="Image/top1.jpg" width="194" height="18" /></td>
+                                    </tr>
+                                    <tr>
+                                      <td align="left" height="54" class="topbg"><span class="main"> - Ad Categories - </span> </td>
+                                    </tr>
+                                </table></td>
+                              </tr>
+                              <tr>
+                                <td colspan="3" valign="top"><table width="190" border="0" cellspacing="0" cellpadding="0">
+                                    <tr>
+                                      <td><img src="Image/topcenter1.jpg" width="194" height="19" /></td>
+                                    </tr>
+                                    <tr>
+                                      <td valign="top" class="centerbg"><table width="180" border="0" cellspacing="0" cellpadding="0" align="center">
+                                          <tr>
+                                            <td width="26">&nbsp;</td>
+                                            <td width="26" height="30px"><Img src="Image/announcement.jpg" border="0" height="25" width="25"></td>
+                                            <td class="home"><a href="#" class="home">Announcements</a></td>
+                                          </tr>
+                                          <tr>
+                                            <td  width="26">&nbsp;</td>
+                                            <td  width="26" height="30px"><Img src="image/automobile.jpg" border="0" height="25" width="25"></td>
+                                            <td class="home"><a href="#" class="home">Automobiles</a></td>
+                                          </tr>
+                                          <tr>
+                                            <td  width="26">&nbsp;</td>
+                                            <td  width="26" height="30px"><img src="image/businessopps.jpg" width="25" height="25" /></td>
+                                            <td class="home"><a href="#" class="home">Business Opportunity</a></td>
+                                          </tr>
+                                          <tr>
+                                            <td  width="26">&nbsp;</td>
+                                            <td  width="26" height="30px"><img src="Image/collectibles.jpg" width="25" height="25" /></td>
+                                            <td class="home"><a href="#" class="home">Collectibles</a></td>
+                                          </tr>
+                                          <tr>
+                                            <td  width="26">&nbsp;</td>
+                                            <td  width="26" height="30px"><img src="Image/computers.jpg" width="25" height="25" /></td>
+                                            <td class="home"><a href="#" class="home">Computers</a></td>
+                                          </tr>
+                                          <tr>
+                                            <td  width="26">&nbsp;</td>
+                                            <td  width="26" height="30px"><img src="Image/employment.jpg" width="25" height="25" /></td>
+                                            <td class="home"><a href="#" class="home">Employment</a></td>
+                                          </tr>
+                                          <tr>
+                                            <td  width="26">&nbsp;</td>
+                                            <td  width="26" height="30px"><img src="Image/merchandise.jpg" width="25" height="25" /></td>
+                                            <td class="home"><a href="#" class="home">Merchandise</a></td>
+                                          </tr>
+                                          <tr>
+                                            <td  width="26">&nbsp;</td>
+                                            <td  width="26" height="30px"><img src="Image/music.jpg" width="25" height="25" /></td>
+                                            <td class="home"><a href="#" class="home">Music and Drammas</a></td>
+                                          </tr>
+										  
+										   <tr>
+                                            <td  width="26">&nbsp;</td>
+                                            <td  width="26" height="30px"><img src="Image/personals.jpg" width="25" height="25" /></td>
+                                            <td class="home"><a href="#" class="home">Personals</a></td>
+                                          </tr>
+										  
+										   <tr>
+                                            <td  width="26">&nbsp;</td>
+                                            <td  width="26" height="30px"><img src="Image/services.jpg" width="25" height="25" /></td>
+                                            <td class="home"><a href="#" class="home">Services</a></td>
+                                          </tr>
+										     <tr>
+                                            <td  width="26">&nbsp;</td>
+                                            <td  width="26" height="30px"><img src="Image/realestate.jpg" width="25" height="25" /></td>
+                                            <td class="home"><a href="#" class="home">Real Estate</a></td>
+                                          </tr>
+										     <tr>
+                                            <td  width="26">&nbsp;</td>
+                                            <td  width="26" height="30px"><img src="Image/forrent.jpg" width="25" height="25" /></td>
+                                            <td class="home"><a href="#" class="home">For Rent</a></td>
+                                          </tr>
+										  
+										       <tr>
+                                            <td  width="26">&nbsp;</td>
+                                            <td  width="26" height="30px"><img src="Image/Taxi.jpg" width="25" height="25" /></td>
+                                            <td class="home"><a href="#" class="home">Taxi and Taxi Drivers</a></td>
+                                          </tr>
+										  
+                                      </table></td>
+                                    </tr>
+                                    <tr>
+                                      <td><img src="Image/topfoot1.jpg" width="194" height="25" /></td>
+                                    </tr>
+                                </table></td>
+                              </tr>
+                          </table></td>
+                        </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td align="center"  valign="top"  height="10px"></td>
+                  </tr>
+                  <tr>
+                    <td valign="top"><table width="190" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td colspan="3" valign="top"><table width="190" border="0" cellspacing="0" cellpadding="0">
+                              <tr>
+                                <td><img src="Image/top1.jpg" width="194" height="18" /></td>
+                              </tr>
+                              <tr>
+                                <td height="54" class="topbg"><span class="main">polls</span> </td>
+                              </tr>
+                          </table></td>
+                        </tr>
+                        <tr>
+                          <td colspan="3"><table width="190" border="0" cellspacing="0" cellpadding="0">
+                              <tr>
+                                <td><img src="Image/bluetop1.jpg" width="194" height="15" /></td>
+                              </tr>
+                              <tr>
+                                <td valign="top" class="bluebg"><table width="180" border="0" cellspacing="0" cellpadding="0" align="center">
+                                    <tr>
+                                      <td height="30px" colspan="3" class="text">The most influential person in technology in the last 25 years is...</td>
+                                    </tr>
+                                    <tr>
+                                      <td height="20px" colspan="3"></td>
+                                    </tr>
+                                    <tr>
+                                      <td  width="26">&nbsp;</td>
+                                      <td  width="26" height="30px"><img src="Image/button2.jpg" width="9" height="9" /></td>
+                                      <td class="home">Steve Jobs</td>
+                                    </tr>
+                                    <tr>
+                                      <td  width="26">&nbsp;</td>
+                                      <td  width="26" height="30px"><img src="Image/button2.jpg" width="9" height="9" /></td>
+                                      <td class="home">Bill Gates</td>
+                                    </tr>
+                                    <tr>
+                                      <td  width="26">&nbsp;</td>
+                                      <td  width="26" height="30px"><img src="Image/button2.jpg" width="9" height="9" /></td>
+                                      <td class="home">Linus Torvalds</td>
+                                    </tr>
+                                    <tr>
+                                      <td  width="26">&nbsp;</td>
+                                      <td  width="26" height="30px"><img src="Image/button2.jpg" width="9" height="9" /></td>
+                                      <td class="home">Tim Berners-Lee</td>
+                                    </tr>
+                                    <tr>
+                                      <td height="10px" colspan="3"></td>
+                                    </tr>
+                                    <tr>
+                                      <td height="30px" colspan="3" valign="top"><table width="180" border="0" cellspacing="0" cellpadding="0">
+                                          <tr>
+                                            <td align="right"><a href="#"><img src="Image/vote.jpg" width="50" height="21" border="0"/></a></td>
+                                            <td align="center"><a href="#"><img src="Image/result.jpg" width="76" height="21"  border="0"/></a></td>
+                                          </tr>
+                                      </table></td>
+                                    </tr>
+                                </table></td>
+                              </tr>
+                              <tr>
+                                <td><img src="Image/bluefoot1.jpg" width="194" height="24" /></td>
+                              </tr>
+                          </table></td>
+                        </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td height="10px"></td>
+                  </tr>
+                  <tr>
+                    <!---left callout removed--->
+					<td valign="top" height="113px">
+					
+					
+					</td>
+                  </tr>
+                </table></td>
+              </tr>
+              
+            </table></td>
+            <td width="14" height="704px" ></td>
+            <td width="389" valign="top"><table width="388"  height="783" border="0" cellspacing="0" cellpadding="0" >
+              <tr>
+                <td valign="top"><img src="Image/centertop.jpg" width="393" height="20" /></td>
+              </tr>
+              <tr>
+                <td class="centerbg1" valign="top"><table width="389" height="745" border="0" align="center" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td width="15" colspan="3"></td>
+                    </tr>
+                  <tr>
+                    <td colspan="3"><table width="389" border="0" cellspacing="0" cellpadding="0" >
+                      <tr>
+                        <td width="15">&nbsp;</td>
+                        <td>&nbsp;</td>
+                        <td class="centerheading">&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td><img src="Image/Image5.jpg" width="32" height="52" /></td>
+                        <td><p class="centerheading">Lorem Ipsum dolore comment</p>
+                          <p class="writen"> Written by Administrator </p></td>
+                      </tr>
+                      <tr>
+                        <td colspan="3" height="10px"></td>
+                        </tr>
+                      <tr>
+					  <td width="8px"></td>
+                        <td colspan="3"><hr /></td>
+						<td width="8px"></td>
+                        </tr>
+                    </table></td>
+                    </tr>
+                  <tr>
+                    <td colspan="3" >&nbsp;</td>
+                    </tr>
+                  <tr>
+                    <td colspan="3" class="matter">Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies</td>
+                    </tr>
+                  <tr>
+                    <td colspan="3" height="40px"></td>
+                    </tr>
+                  <tr>
+                    <td height="172" colspan="3" valign="top">
+					
+					 <table width="349" height="160" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#FFFFFF">
+                      <tr>
+                        <td colspan="3" height="10px"></td>
+                        </tr>
+                      <tr>
+                        <td width="15"></td>
+                        <td><img src="Image/arrow4.jpg" width="10" height="6" /></td>
+                        <td class="home" height="30px">Fusce suscipit varius mium Sociis natoque</td>
+                      </tr>
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td><img src="Image/arrow4.jpg" width="10" height="6" /></td>
+                        <td class="home" height="30px">Penatibus et agnis dis parturient montes, nascetur</td>
+                      </tr>
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td><img src="Image/arrow4.jpg" width="10" height="6" /></td>
+                        <td class="home" height="30px">Ridiculus musulla dui. Fusce feugiat malesuada odio</td>
+                      </tr>
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td><img src="Image/arrow4.jpg" width="10" height="6" /></td>
+                        <td class="home" height="30px">Morbi nunc odio, gravida at, cursus nec, luctus a, </td>
+                      </tr>
+                      <tr>
+                        <td height="10px" colspan="3"></td>
+                        </tr>
+                      
+                    </table></td>
+                    </tr>
+                 
+                  <tr>
+                    <td colspan="3" valign="top"><table width="349" border="0" cellspacing="0" cellpadding="0" align="center">
+                      <tr>
+                        <td><a href="#"><img src="Image/read-more.jpg" width="79" height="27" border="0" /></a></td>
+                      </tr>
+                      
+                    </table></td>
+                    </tr>
+                  <tr>
+                    <td colspan="3">&nbsp;</td>
+                    </tr>
+                  <tr>
+                    <td colspan="3" valign="top"><table width="389" border="0" cellspacing="0" cellpadding="0">
+                      
+                      <tr>
+                        <td>&nbsp;</td>
+                        <td><img src="Image/Image5.jpg" width="32" height="52" /></td>
+                        <td><p class="centerheading">Lorem Ipsum dolore comment</p>
+                            <p class="writen"> Written by Administrator </p></td>
+                      </tr>
+                      <tr>
+					  
+                        <td colspan="3" height="10px"></td>
+                      </tr>
+                      <tr>
+					  <td width="15">&nbsp;</td>
+                        <td colspan="3"><hr /></td>
+						<td width="8">&nbsp;</td>
+                      </tr>
+                    </table></td>
+                    </tr>
+                  <tr>
+                    <td colspan="3" height="30px"></td>
+                    </tr>
+                  <tr>
+                    <td colspan="3" class="matter">Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies </td>
+                    </tr>
+                  
+                  <tr>
+                    <td colspan="3">&nbsp;</td>
+                    </tr>
+                  <tr>
+                    <td colspan="3"><table width="349" border="0" cellspacing="0" cellpadding="0" align="center">
+                      <tr>
+                        <td><a href="#"><img src="Image/read-more.jpg" width="79" height="27"  border="0"/></a></td>
+                      </tr>
+                    </table></td>
+                    </tr>
+                  
+                  
+                </table></td>
+              </tr>
+              
+              <tr>
+                <td valign="bottom"><img src="Image/centerfoot.jpg" width="393" height="19" /></td>
+              </tr>
+            </table>
+			  </td>
+            <td width="14" height="704px"></td>
+            <td valign="top" height="704px">
+			<table width="183" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                    <td colspan="3" valign="top"><table width="180" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td><img src="Image/right-top.jpg" width="184" height="22" /></td>
+                        </tr>
+                        <tr>
+                          <td background="Image/right-bg2.jpg" height="169px" width="180px" valign="top"><table width="180" height="175" border="0" align="center" cellpadding="0" cellspacing="0">
+                              <tr>
+                                <td colspan="2" align="center"><img src="Image/youradhere.jpg" width="169" height="200" /></td>
+                              </tr>
+                              <tr>
+                                <td colspan="2">&nbsp;</td>
+                              </tr>
+                              <tr>
+                                <td width="32" align="center"><img src="Image/arrow4.jpg" width="10" height="6" /></td>
+                                <td width="148" class="home1"><a href="#" class="home1">News Flash 1</a></td>
+                              </tr>
+                       
+                          </table></td>
+                        </tr>
+                        <tr>
+                          <td><img src="Image/right-bot.jpg" width="184" height="22" /></td>
+                        </tr>
+                    </table></td>
+                  </tr>
+                  <tr>
+                    <td colspan="3">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td height="235" colspan="3" valign="top"><table width="180" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td><img src="Image/right-top.jpg" width="184" height="22" /></td>
+                        </tr>
+                        <tr>
+                          <td background="Image/right-bg2.jpg" height="179px" width="180px" valign="top"><table width="180" height="185" border="0" align="center" cellpadding="0" cellspacing="0">
+                              <tr>
+                                <td colspan="2" align="center"><img src="Image/youradhere.jpg" width="169" height="200" /></td>
+                              </tr>
+                              <tr>
+                                <td colspan="2"></td>
+                              </tr>
+                              <tr>
+                                <td width="32" align="center"><img src="Image/arrow4.jpg" width="10" height="6" /></td>
+                                <td width="148" class="home1"><a href="#" class="home1">Can i Change the format<br />
+                                  of the Home Page?</a></td>
+                              </tr>
+                              <tr>
+                                <td width="32" align="center"><img src="Image/arrow4.jpg" width="10" height="6" /></td>
+                                <td class="home1"><a href="#" class="home1">Can users edit content from the front end?</a><br /></td>
+                              </tr>
+                              <tr>
+                                <td width="32" height="44" align="center"><img src="Image/arrow4.jpg" width="10" height="6" /></td>
+                                <td class="home1"><a href="#" class="home1">Can I show different <br />
+                                  users different content?</a></td>
+                              </tr>
+                          </table></td>
+                        </tr>
+                        <tr>
+                          <td height="22"><img src="Image/right-bot.jpg" width="184" height="22" /></td>
+                        </tr>
+                    </table></td>
+                  </tr>
+                </table></td>
+              </tr>
+              
+              
+            </table></td>
+          </tr>
+          
+        </table></td>
+      </tr>
+      
+      
+    </table></td>
+  </tr>
+  
+</table>
+<TABLE>
+<tr>
+	  <td width="419" height="50px"></td>
+	  <td width="381" class="footer1" align="right">Business co.(c) 2008 <a href="#" class="footer">Privacy Policy</a><br />
+	    Membo is free Software released under the CALLGPL Lieense	  </td>
+	  </tr>
+</table>
+</body>
+</html>
